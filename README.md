@@ -8,7 +8,7 @@
 | `cd` | Displays current directory |
 | `dir` | Displays all files in the current directory |
 | `cd foldername` | Changes directory to the specified directory |
-| `cd ..` | Initialize a local Git repository |
+| `cd ..` | Changes directory to the higher directory |
 
 
 ### Utility
